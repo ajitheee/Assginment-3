@@ -1,3 +1,14 @@
+# -------------------------------------------------------------------------
+# AUTHOR: Ajith Elumalai
+# FILENAME: title of the source file
+# SPECIFICATION: description of the program
+# FOR: CS 5990 (Advanced Data Mining) - Assignment #3
+# TIME SPENT: 1 day
+# -----------------------------------------------------------*/
+
+#IMPORTANT NOTE: YOU HAVE TO WORK WITH THE PYTHON LIBRARIES numpy AND pandas to complete this code.
+
+#importing some Python libraries
 # decision_tree.py
 # Complete solution with preprocessing fix and sklearn compatibility
 import numpy as np
